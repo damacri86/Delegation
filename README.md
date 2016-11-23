@@ -1,6 +1,6 @@
 # Delegation
 
-![Pattern](https://img.shields.io/badge/Patterns-green.svg)
+![Pattern](https://img.shields.io/badge/Behavioral-Patterns-green.svg)
 ![Languages](https://img.shields.io/badge/Language-swift-green.svg)
 
 ### Motivación
